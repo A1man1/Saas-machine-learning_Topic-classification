@@ -1,0 +1,14 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"Django",
+		"Django Lookup Snippets",
+		"Django Syntax",
+		"Django-Rest-Snippets",
+		"Package Control"
+	]
+}
