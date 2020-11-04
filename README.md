@@ -17,4 +17,3 @@ for using download all dependency of python and react-js
  use  command on terminal for linux user<br />
   1.run.sh         <br />for python server starting backend<br />
   2.runer.sh        <br />for react-js server frontend moudle<br />
- 
