@@ -14,7 +14,7 @@
     "@stripe/stripe-js": "^1.7.0",
     "antd": "^4.3.3",
     "aos": "^2.3.4",
-    "axios": "^0.19.2",
+    "axios": "^0.21.2",
     "classnames": "^2.2.6",
     "date-fns": "^2.14.0",
     "emoji-mart": "^3.0.0",
